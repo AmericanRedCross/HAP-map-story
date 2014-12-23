@@ -1,6 +1,6 @@
-Adapted from :
+#### Web Address
 
-http://philippineredcross.github.io/haiyan-one-year/
+http://americanredcross.github.io/HAP-map-story
 
 #### Technology Used
 
