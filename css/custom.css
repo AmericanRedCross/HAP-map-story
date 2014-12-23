@@ -27,7 +27,7 @@ section {
 section small { color:#aaa; }
 
 
-@media (min-width:768px) {
+@media (min-width:763px) {
   body {
     margin:0px;
     padding-top:70px;
@@ -156,7 +156,7 @@ section small { color:#aaa; }
 .spot-manila { display:none; }
 .spot-manila.active { background:url(../img/marker-prc.png); }
 .spot-movement { display:none; }*/
-.spot.active { display: block; } 
+.spot.active { display: block; }
 
 /* Distinguish the "cover page" visually other sections. */
 body.section-0 #map { opacity:0.5; }
@@ -177,11 +177,11 @@ body.section-0 #map { opacity:0.5; }
   right:0;
   bottom:0;
   z-index: 9999;
-  margin: 0 10px;  
+  margin: 0 10px;
   font-size: x-small;
   color: #78787d;
 }
-.attribution a {    
+.attribution a {
   text-decoration: none;
   cursor: pointer;
   color: #6d6e70;
@@ -251,8 +251,8 @@ body.section-0 #map { opacity:0.5; }
 .modal-80 {
   width: 80%;
 }
-.modal-body-img { 
-   padding: 20px; 
+.modal-body-img {
+   padding: 20px;
 }
 .modal-img {
   margin-left: auto;
