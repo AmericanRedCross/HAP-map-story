@@ -34,7 +34,7 @@ section small { color:#aaa; }
     background:#fff;
   }
   article {
-    width:42%;
+    width:55%;
     min-width:320px;
     position:relative;
     padding-top:30px;
@@ -249,7 +249,7 @@ body.section-0 #map { opacity:0.5; }
   border-radius: 0px;
 }
 .modal-80 {
-  width: 80%;
+  width: 70%;
 }
 .modal-body-img {
    padding: 20px;
