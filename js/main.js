@@ -131,7 +131,7 @@ if(width >= 762){
           // zoom: 6,
           // center: [11, 125.7],
           layers: [tileLayer]
-        }).fitBounds([[18.25, -75.00], [20.25, -71.75]], {
+        }).fitBounds([[18.00, -75.00], [20.00, -71.75]], {
           paddingTopLeft: padding
         });
       // }).fitBounds([[18.050456, -75.840171], [20.204108, -72.780479]], {
